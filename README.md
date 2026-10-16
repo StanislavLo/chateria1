@@ -56,8 +56,8 @@ i) problemy z utrzymaniem wątków.
 4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
-## 5. Zdenerwuj bota 😊😊
-Lista startowa chatbotów:
+5. Zdenerwuj bota 😊😊
+## Lista startowa chatbotów:
 * cleverbot.com
 * www.chatbot4u.com
 * www.chatbot.pl
