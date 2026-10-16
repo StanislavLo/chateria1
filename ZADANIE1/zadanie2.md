@@ -1,0 +1,5 @@
+• streszczanie tekstu,
+• tłumaczenie tekstu,
+• klasyfikacja tekstu do kategorii tematycznych,
+• odpowiadanie na proste pytania zadawane w języku naturalnym,
+• rozwiązywanie układów równań,
