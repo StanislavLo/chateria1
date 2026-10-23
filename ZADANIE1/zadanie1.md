@@ -2,4 +2,3 @@
 * **Komponowanie muzyki:** Tak. Maszyna nie ma duszy.
 * **Programowanie:** Tak. Ktoś musi wymyślić, co program w ogóle ma robić.
 * **Kierowanie samochodem:** Tak. Komputer nie przewidzi głupoty innego kierowcy.
-* **„Programowanie” kanałów telewizyjnych:** Tak. Tylko człowiek czuje, na co inni mają teraz ochotę.
