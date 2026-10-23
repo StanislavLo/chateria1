@@ -1,5 +1,4 @@
-• streszczanie tekstu,
-• tłumaczenie tekstu,
-• klasyfikacja tekstu do kategorii tematycznych,
-• odpowiadanie na proste pytania zadawane w języku naturalnym,
-• rozwiązywanie układów równań,
+* Streszczanie tekstu (AI musi "zrozumieć" sens i język).
+* Tłumaczenie tekstu (wymaga analizy kontekstu językowego).
+* Klasyfikacja tekstu (uczenie maszynowe rozpoznaje wzorce).
+* Odpowiadanie na pytania w języku naturalnym (rozumienie mowy i wyciąganie wniosków).
