@@ -1,5 +1,5 @@
-• komponowanie muzyki,
-• rozwiązywanie układów równań,
-• symboliczne obliczanie pochodnych funkcji,
-• symboliczne całkowanie funkcji,
-• kierowanie samochodem
+* **Tłumaczenie tekstu:** Tak. Komputer nie rozumie żartów i emocji.
+* **Komponowanie muzyki:** Tak. Maszyna nie ma duszy.
+* **Programowanie:** Tak. Ktoś musi wymyślić, co program w ogóle ma robić.
+* **Kierowanie samochodem:** Tak. Komputer nie przewidzi głupoty innego kierowcy.
+* **„Programowanie” kanałów telewizyjnych:** Tak. Tylko człowiek czuje, na co inni mają teraz ochotę.
