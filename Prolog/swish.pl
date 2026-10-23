@@ -1,0 +1,11 @@
+bodziec(dzwonek).
+bodziec(szept).
+bodziec(lampa).
+kanal(dzwonek,sluch).
+kanal(szept,sluch).
+kanal(lampa,wzrok).
+kanal(nagranie,sluch).
+natezenie(dzwonek,glosny).
+natezenie(szept,cichy).
+natezenie(lampa,jasny).
+natezenie(nagranie,glosny).
